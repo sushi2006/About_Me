@@ -17,5 +17,8 @@ My hobbies consist of:
 <br>
 ## Favorite Quotes
 *The only way to do great work is to love what you do.*
+## My favorite Websites
+[Netflix](https://www.netflix.com/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse)
+[Instagram](https://www.instagram.com/)
 
 Markdown Tutorial
